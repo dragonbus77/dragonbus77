@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dragonbus77
 - 👀 I’m interested in biology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning flutter
 
 <!---
 dragonbus77/dragonbus77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
